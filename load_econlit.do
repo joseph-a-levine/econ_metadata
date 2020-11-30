@@ -53,27 +53,7 @@ log using "$temppath\2_practice_$S_DATE.txt", replace text   // Open log file
 clear
 
 
-
-
-
-import delimited "$datapath\10_14_all.csv"
-
-
-drop in 1/2
-
-
-rename v2 	title
-rename v3 	author
-rename v4 	author_aff
-rename v5 	publication
-rename v6 	pub_date
-rename v7 	JEL_codes
-rename v8 	ID_1
-rename v9 	pub_type
-rename v10 	ID_2
-rename v11 	ID_3
-
-
+import delimited "$temppath\JELs_joined_affs.csv"
 
 
 
