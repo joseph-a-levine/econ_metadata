@@ -1,5 +1,5 @@
 # econ_metadata
-Scrapes and analyzes metadata from EconLit for all papers published in the 2010s. 
+This project scrapes and analyzes metadata from EconLit for all papers published in the 2010s. I am particularly motivated to find departments which are especially productive in fields and subfields which match my research interests.
 
 # Overview
 
