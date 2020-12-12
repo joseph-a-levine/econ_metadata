@@ -53,10 +53,13 @@ log using "$temppath\2_practice_$S_DATE.txt", replace text   // Open log file
 clear
 
 
-import delimited "$temppath\JELs_joined_affs.csv"
+import delimited "$temppath\JELs_joined_16-19_affs.csv"
 
 
+gen jel_field = substr(jel, 1,1)
 
+
+gen jel_subfield = substr(jel, 1,2)
 
 
 clear all
