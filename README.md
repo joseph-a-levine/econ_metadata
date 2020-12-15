@@ -19,7 +19,7 @@ These data are pulled from the AEA's EconLit database, which I have access to th
 * JEL codes
 * Ephemera
 
-For the time period, this is more than half a million journal articles. 
+For the time period, this is more than half a million journal articles. The full list of journals included is available on the EconLit website.
 
 # Processing
 
