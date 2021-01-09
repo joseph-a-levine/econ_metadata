@@ -21,6 +21,7 @@ These data are pulled from the AEA's EconLit database, which I have access to th
 
 For the time period, this is more than half a million journal articles. The full list of journals included is available on the EconLit website.
 
+
 # Processing
 
 For every article (identified by unique article identifier), we have all of the associated JEL codes and keywords. The JEL codes were stored as a string delimited by semicolons. In order to turn it into a proper edgelist between article and JEL code nodes, it had to be transformed so that each row of the jel column contains exactly one JEL classification code.
