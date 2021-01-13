@@ -29,7 +29,7 @@ This transformed version was panel set, with each row unqiuely identified by a) 
 
 ## Authors and Author Affiliations
 
-EconLit neither standardizes the names of the authors, nor standardizes the names of the departments. This was resolved with desk research and fuzzy matching in Python. Some arbitrary distinctions remained: for example, EconLit does not distinguish between the University of Paris campuses, so all University of Paris campuses were counted as one institution. For individual scholars, we were able to match almost all with their affiliation and work products; some outlying cases included departments or authors with identical names. 
+EconLit neither standardizes the names of the authors, nor standardizes the names of the departments. This was resolved with desk research and fuzzy matching in Python. Some arbitrary distinctions remained: for example, EconLit does not distinguish between the University of Paris campuses, so all University of Paris campuses were counted as one institution. Similarly, universities are the top level of affiliation identification. Within universities, department and research center are identified where possible. For individual scholars, we were able to match almost all with their affiliation and work products; some outlying cases included departments or authors with identical names. 
 
 ## Publication Weighting
 
