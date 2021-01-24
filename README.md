@@ -33,7 +33,7 @@ EconLit neither standardizes the names of the authors, nor standardizes the name
 
 ## Publication Weighting
 
-**If you were directed here by my Ph.D. application, please know that those figures on department productivity are not weighted by journal rankings.** 
+**If you were directed here by my Ph.D. application, please note that those figures on department productivity are not weighted by journal rankings.** 
 
 To weight by influence, I use [IDEAS aggregate journal ranking](https://ideas.repec.org/top/top.journals.all10.html) over the last ten years (same period as my analysis).
 
