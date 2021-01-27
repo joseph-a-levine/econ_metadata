@@ -12,7 +12,7 @@
 /*
 *	Outline
 *	Program set-up
-*	Part 1: 
+*	Part 1: Load scraped data
 *	Part 2: 
 *	Part 3: 
 *	Part 4: 
