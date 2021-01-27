@@ -1,7 +1,7 @@
 *------------------Header---------------------
 * Loading data from JEL codes
 * load_econlit.do
-* Last edited date: 2020-12-29
+* Last edited date: 2020-12-30
 * Last edited by: Joseph Levine
 *---------------------------------------------
 
