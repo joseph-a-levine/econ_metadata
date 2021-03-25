@@ -3,7 +3,7 @@ This project scrapes and analyzes metadata from EconLit for all papers published
 
 # Overview
 
-JEL codes are awesome. The goal here is to get the JEL codes for every paper published in the 2010s, along with authors, author affiliation, journal name, etc. Plenty of schools says "we're the best for IO or mechanism design or urban or whatever", with this data, we can actually see which departments publish the most in which fields!
+JEL codes are awesome. The goal here is to get the JEL codes for every paper published in the 2010s, along with authors, author affiliation, journal name, etc. Plenty of schools says "we're the best for IO or mechanism design or urban or whatever", with this data, we can actually see which departments publish the most in which fields! 
 
 # Data
 
