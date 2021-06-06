@@ -44,7 +44,6 @@ global temppath "~\Dropbox\Research\JEL_codes\Temp"
 global resultspath "~\Dropbox\Research\JEL_codes\Results"  
 			// Set resultspath
 
-log using "$temppath\2_practice_$S_DATE.txt", replace text   // Open log file
 
 
 *----------------------------------------------------------------
@@ -59,10 +58,9 @@ import delimited "$temppath\JELs_joined_16-19_affs.csv"
 gen jel_field = substr(jel, 1,1)
 
 
-gen jel_subfield = substr(jel, 1,2)
+gen jel_subfield = substr(jel, 1,3)
 
 
 clear all
-log close
 
 exit
